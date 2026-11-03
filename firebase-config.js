@@ -1,7 +1,7 @@
 // Firebase Console > Project settings > Your apps > Web app > SDK setup.
 // Replace this entire object with the actual PUBLIC Firebase web app config.
 // Firebase cannot function without project-specific values.
-window.FREEGRC_FIREBASE_CONFIG = null;
+// window.FREEGRC_FIREBASE_CONFIG = null;
 const firebaseConfig = {
   apiKey: "AIzaSyDfLm05F4dsNS4gmxwXsnJQWRkiqM6w3qw",
   authDomain: "freegrctool.firebaseapp.com",
